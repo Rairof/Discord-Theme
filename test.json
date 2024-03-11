@@ -1,6 +1,6 @@
 {
     "name": "RosieRed",
-    "description": "meow meow bud in red",
+    "description": "fire in the hole but in red",
     "version": "1",
     "authors": [
       {
@@ -34,13 +34,13 @@
       "#29AB87"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5653617A"
+      "#6153537A"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#5B4D4D4c"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#4A4D63"
+      "#634a4a"
       ],
       "BACKGROUND_PRIMARY": [
       "#2B2323"
@@ -70,7 +70,7 @@
       "#2F2626"
       ],
       "BORDER_FAINT": [
-      "#434A6B"
+      "#6b4343"
       ],
       "BORDER_STRONG": [
       "#7C6C6C"
@@ -85,16 +85,16 @@
       "#2F2626"
       ],
       "CHANNEL_ICON": [
-      "#B7BFED"
+      "#edb7b7"
       ],
       "CHANNELS_DEFAULT": [
-      "#A39595"
+      "#4d3939"
       ],
       "EMBED_BACKGROUND": [
-      "#393B4D"
+      "#4d3939"
       ],
       "HEADER_PRIMARY": [
-      "#98AFF9"
+      "#f99898"
       ],
       "HEADER_SECONDARY": [
       "#A39595"
@@ -112,22 +112,22 @@
       "#CEC7C7"
       ],
       "MENTION_BACKGROUND": [
-      "#6398FF5e"
+      "#ff63635e"
       ],
       "MENTION_FOREGROUND": [
       "#FCD4d4"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#17161B"
+      "#1b1616"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#17161B"
+      "#1b1616"
       ], 
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#363757"
+      "#573636"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#3D3E66"
+      "#663d3d"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#A39595"
@@ -136,16 +136,16 @@
       "#F4F3F3"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#17161B"
+      "#1b1616"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#4D4141"
       ],
       "STATUS_DANGER": [
-      "#4475F4"
+      "#f44444"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#4475F4"
+      "#f44444"
       ],
       "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -154,10 +154,10 @@
       "#FA777B"
       ],
       "TEXT_LINK": [
-      "#FC0000"
+      "#ff3737"
       ],
       "TEXT_MUTED": [
-      "#98AFF9"
+      "#f99898"
       ],
       "TEXT_NORMAL": [
       "#CEC7C7"
@@ -309,7 +309,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://github.com/Rairof/Discord-Theme/blob/main/RosieRed.png?raw=1"
+        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/IMG_20240311_142110.png?raw=1"
     },
    "plus":{
        "version":"0",
@@ -333,3 +333,4 @@
 },
     "spec": 2
 }
+
