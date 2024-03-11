@@ -1,6 +1,6 @@
 {
     "name": "RosieRed",
-    "description": "fire in the hole but in red",
+    "description": "meow meow bud in red",
     "version": "1",
     "authors": [
       {
@@ -28,7 +28,7 @@
       "#2B2323"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#363961"
+      "#7B6C6B"
       ],
       "BACKGROUND_MODIFIER_ACCENT_2": [
       "#29AB87"
@@ -309,7 +309,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/IMG_20240311_142110.png?raw=1"
+        "url": "https://github.com/Rairof/Discord-Theme/blob/main/RosieRed.png?raw=1"
     },
    "plus":{
        "version":"0",
