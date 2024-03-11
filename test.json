@@ -1,10 +1,10 @@
 {
-    "name": "RosieBlue",
-    "description": "meow meow but in blue",
+    "name": "RosieRed",
+    "description": "fire in the hole but in red",
     "version": "1",
     "authors": [
       {
-        "name": "Moodle",
+        "name": "Moodle & Rairof",
         "id": "807170846497570848"
       }
     ],
@@ -309,7 +309,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://github.com/Quinxxxx/Discord-themes/blob/main/RosieBlue.png?raw=1"
+        "url": "https://github.com/Rairof/Discord-Theme/blob/main/pxfuel%20(1).jpg?raw=1"
     },
    "plus":{
        "version":"0",
