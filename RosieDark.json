@@ -526,7 +526,7 @@
         "StatusMobileOnline": "#09bd63",
         "StatusIdle": "#ffd401",
         "StatusDND": "#eb6f92",
-        "StatusOffline": "#feffff",
+        "StatusOffline": "#80848D",
         "StatusOnline": "#09bd63",
         "StatusStreaming": "#7e64fb",
         "trash": "#eb6f92",
