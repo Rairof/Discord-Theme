@@ -1,6 +1,6 @@
 {
   "name": "RosieDark",
-  "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
+  "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3 For testing purposes",
   "version": "1",
   "authors": [
     {
@@ -345,24 +345,24 @@
     "WHITE_630": "#776767"
   },
   "fonts": {
-    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-    "ggsans-MediumItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
-    "ggsans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-    "ggsans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-    "ggsans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-    "ggsans-SemiboldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
-    "NotoSans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "NotoSans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "NotoSans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-    "NotoSans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-    "NotoSans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
-    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-MediumItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Bold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1"
   },
   "background": {
     "blur": 0.1,
@@ -411,7 +411,6 @@
         "ic_add_friend": "#BBC7A4",
         "ic_badge_staff": "#8f317f",
         "ic_ban_24px": "#eb6f92",
-        "ic_behavior_24px": "#eb6f92",
         "ic_big_arrow_down": "#e7a7d7",
         "ic_call_ended": "#eb6f92",
         "ic_chat_bubble_12px": "#ffd7f2",
