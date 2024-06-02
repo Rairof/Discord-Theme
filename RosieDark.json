@@ -8,7 +8,7 @@
       "id": "807170846497570848"
     }
   ],
-  "semanticColors": {
+ "semanticColors": {
     "ANDROID_RIPPLE": [
       "#5e505c"
     ],
@@ -139,7 +139,7 @@
       "#BF8AB0"
     ],
     "INTERACTIVE_NORMAL": [
-      "FFFEFF"
+      "fdfdfd"
     ],
     "MENTION_BACKGROUND": [
       "#ff63635e"
@@ -175,7 +175,7 @@
       "#f44444"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#C3897A"
+      "#f44444"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -187,7 +187,7 @@
       "#17131a"
     ],
     "POLLS_VICTOR_FILL": [
-      "#3d2c37"
+      "#E68EB7"
     ],
     "TEXT_LINK": [
       "#ffbaf2"
@@ -226,7 +226,7 @@
     "BLUE_700": "#8f5971",
     "BLACK_500": "#000000b2",
     "BRAND_260": "#cf82a5",
-    "BRAND_300": "#f598c3",
+    "BRAND_300": "#05ff00",
     "BRAND_330": "#ed93bd",
     "BRAND_345": "#e890b9",
     "BRAND_360": "#e68eb7",
@@ -255,13 +255,13 @@
     "PLUM_22": "#1C1616",
     "PLUM_24": "#140F0F",
     "PLUM_25": "#100C0C",
-    "PLUM_3": "#E8E4E4",
+    "PLUM_3": "#c2789b",
     "PLUM_4": "#e5dcdc",
     "PLUM_6": "#cec6c6",
     "PLUM_9": "#a59090",
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#FFFfff",
-    "PRIMARY_300": "#FFFEFF",
+    "PRIMARY_300": "#fdfdfd",
     "PRIMARY_330": "#FCFDFC",
     "PRIMARY_360": "#fcfdfc",
     "PRIMARY_400": "#e3bede",
