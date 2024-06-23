@@ -13,7 +13,7 @@
       "#5e505c"
     ],
     "CHAT_BACKGROUND": [
-      "0e0c0e"
+      "#0e0c0e"
     ],
     "BACKGROUND_ACCENT": [
       "#FFB5F3"
@@ -127,10 +127,10 @@
       "#E792C5"
     ],
     "HEADER_SECONDARY": [
-      "FFEFFF"
+      "#FFEFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "FFFFFF"
+      "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
       "#DEDCDE"
