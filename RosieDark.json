@@ -103,7 +103,7 @@
       "#221b1e"
     ],
     "BORDER_FAINT": [
-      "#6b4343"
+      "#4F3B47"
     ],
     "BORDER_STRONG": [
       "#7C6C6C"
@@ -118,7 +118,7 @@
       "#0D0C0E"
     ],
     "CHANNEL_ICON": [
-      "#edb7b7"
+      "#e7c6db"
     ],
     "EMBED_BACKGROUND": [
       "#4d3939"
@@ -154,10 +154,10 @@
       "#1b1616"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#573636"
+      "#2b232f"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#663d3d"
+      "#39343F"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#A39595"
@@ -166,7 +166,7 @@
       "#F4F3F3"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#1b1616"
+      "#18141a"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#4D4141"
@@ -204,6 +204,9 @@
     "TEXT_SECONDARY": [
       "#e7c6c6"
     ],
+    "BG_MOD_FAINT": [
+      "#4A3441"
+    ],
     "KEYBOARD": [
       "#181419"
     ]
@@ -225,8 +228,8 @@
     "BLUE_660": "#995f79",
     "BLUE_700": "#8f5971",
     "BLACK_500": "#000000b2",
-    "BRAND_260": "#cf82a5",
-    "BRAND_300": "#05ff00",
+    "BRAND_260": "#ff9ecb",
+    "BRAND_300": "#f598c3",
     "BRAND_330": "#ed93bd",
     "BRAND_345": "#e890b9",
     "BRAND_360": "#e68eb7",
@@ -235,22 +238,22 @@
     "BRAND_460": "#cc7ea2",
     "BRAND_500": "#c2789b",
     "BRAND_530": "#ba7394",
-    "BRAND_560": "#25181e",
+    "BRAND_560": "#b36f8e",
     "BRAND_600": "#a86885",
     "BRAND_630": "#a1647f",
     "BRAND_660": "#995f79",
     "BRAND_700": "#8f5971",
-    "ORANGE_345": "#f23030",
+    "ORANGE_345": "#ff9ecb",
     "PLUM_1": "#F4F3F3",
     "PLUM_10": "#918181",
     "PLUM_11": "#807070",
-    "PLUM_13": "#5B4D4D",
-    "PLUM_15": "#433838",
+    "PLUM_13": "#e7c6db",
+    "PLUM_15": "#B9A2D0",
     "PLUM_16": "#392e36",
     "PLUM_17": "#282023",
     "PLUM_18": "#392e33",
     "PLUM_19": "#332828",
-    "PLUM_20": "#160f17",
+    "PLUM_20": "#0d0c0e",
     "PLUM_21": "#1F1818",
     "PLUM_22": "#1C1616",
     "PLUM_24": "#140F0F",
@@ -289,9 +292,9 @@
     "GREEN_630": "#a1647f",
     "GREEN_660": "#995f79",
     "GREEN_700": "#8f5971",
-    "GUILD_BOOSTING_PINK": "#ff9e9e",
-    "GUILD_BOOSTING_PURPLE": "#f49797",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ed9393",
+    "GUILD_BOOSTING_PINK": "#ff9ecb",
+    "GUILD_BOOSTING_PURPLE": "#f598c3",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ed93bd",
     "RED_260": "#ff9ecb",
     "RED_300": "#f598c3",
     "RED_330": "#ed93bd",
