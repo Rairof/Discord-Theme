@@ -79,7 +79,7 @@
       "#865566"
     ],
     "BACKGROUND_SECONDARY": [
-      "#81646d"
+      "#675057"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#925d6f"
@@ -112,10 +112,10 @@
       "#7c6c71"
     ],
     "CARD_SECONDARY_BG": [
-      "#1a1416"
+      "#735962"
     ],
     "CARD_PRIMARY_BG": [
-      "#0e0c0d"
+      "#6e5e66"
     ],
     "CHANNEL_ICON": [
       "#e7c6d1"
@@ -245,18 +245,18 @@
     "BRAND_700": "#8f596b",
     "ORANGE_345": "#ff9ebf",
     "PLUM_1": "#f4f3f3",
-    "PLUM_10": "#918186",
-    "PLUM_11": "#807075",
+    "PLUM_10": "#494143",
+    "PLUM_11": "#423a3c",
     "PLUM_13": "#e7c6d1",
     "PLUM_15": "#d0a2b1",
     "PLUM_16": "#392e32",
-    "PLUM_17": "#282023",
+    "PLUM_17": "#6c575f",
     "PLUM_18": "#7f6770",
-    "PLUM_19": "#33282c",
-    "PLUM_20": "#0d0c0e",
+    "PLUM_19": "#846772",
+    "PLUM_20": "#6c6475",
     "PLUM_21": "#1f181a",
     "PLUM_22": "#1C1616",
-    "PLUM_24": "#140f11",
+    "PLUM_24": "#6b505b",
     "PLUM_25": "#100c0d",
     "PLUM_3": "#c27891",
     "PLUM_4": "#e5dcdf",
