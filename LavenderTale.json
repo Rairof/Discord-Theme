@@ -195,17 +195,17 @@
     "TEXT_MUTED": [
       "#e792af"
     ],
-    "TEXT_POSITIVE": [
-      "#fbfbfb"
-    ],
     "TEXT_NORMAL": [
-      "#141414"
+      "#f48fb1"
+    ],
+    "TEXT_POSITIVE": [
+      "#f48fb1
     ],
     "TEXT_PRIMARY": [
-      "#fbfbfb"
+      "#f48fb1"
     ],
     "TEXT_SECONDARY": [
-      "#141414"
+      "#f48fb1"
     ],
     "BG_MOD_FAINT": [
       "#ab345c"
