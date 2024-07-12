@@ -79,7 +79,7 @@
       "#27191e"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1a1416"
+      "#81646d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#27191e"
@@ -88,16 +88,16 @@
       "#0f0b0c"
     ],
     "BG_BASE_PRIMARY": [
-      "#0e0c0d"
+      "#907b85"
     ],
     "BG_BACKDROP": [
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#080607"
+      "#9f778b"
     ],
     "BG_BASE_TERTIARY": [
-      "#0f0b0c"
+      "#a67983"
     ],
     "HOME_BACKGROUND": [
       "#221b1d"
@@ -366,7 +366,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://i.imgur.com/a/f3UonrP/",
+    "url": "https://github.com/Rairof/Discord-Theme/blob/main/LavenderTale.png?raw=1",
     "OPACITY": 0
   },
   "plus": {
