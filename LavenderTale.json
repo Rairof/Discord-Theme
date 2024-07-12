@@ -42,9 +42,6 @@
     "CHANNELTEXTAREA_BACKGROUND": [
       "#f6f6f6"
     ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#897077"
-    ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
       "#896f78"
     ],
@@ -246,7 +243,6 @@
     "BRAND_630": "#a16479",
     "BRAND_660": "#995f73",
     "BRAND_700": "#8f596b",
-    "ORANGE_345": "#ff9ebf",
     "PLUM_1": "#f4f3f3",
     "PLUM_10": "#494143",
     "PLUM_11": "#423a3c",
