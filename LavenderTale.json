@@ -166,7 +166,7 @@
       "#f4f3f3"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#1a1416"
+      "#93727d"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#4d4145"
@@ -196,13 +196,13 @@
       "#e792af"
     ],
     "TEXT_NORMAL": [
-      "#fbfbfb"
+      "#141414"
     ],
     "TEXT_PRIMARY": [
       "#fbfbfb"
     ],
     "TEXT_SECONDARY": [
-      "#e7c6d1"
+      "#141414"
     ],
     "BG_MOD_FAINT": [
       "#ab345c"
@@ -228,7 +228,7 @@
     "BLUE_660": "#995f73",
     "BLUE_700": "#8f596b",
     "BLACK_500": "#000000b2",
-    "BRAND_260": "#ff9ebf",
+    "BRAND_260": "#ff77a4",
     "BRAND_300": "#f598b7",
     "BRAND_330": "#ed93b1",
     "BRAND_345": "#e890ae",
@@ -251,7 +251,7 @@
     "PLUM_15": "#d0a2b1",
     "PLUM_16": "#392e32",
     "PLUM_17": "#282023",
-    "PLUM_18": "#392e32",
+    "PLUM_18": "#7f6770",
     "PLUM_19": "#33282c",
     "PLUM_20": "#0d0c0e",
     "PLUM_21": "#1f181a",
