@@ -195,6 +195,9 @@
     "TEXT_MUTED": [
       "#e792af"
     ],
+    "TEXT_POSITIVE": [
+      "#fbfbfb"
+    ],
     "TEXT_NORMAL": [
       "#141414"
     ],
