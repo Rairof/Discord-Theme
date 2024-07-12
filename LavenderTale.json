@@ -13,19 +13,19 @@
       "#5e5055"
     ],
     "CHAT_BACKGROUND": [
-      "#0e0c0d"
+      "#897780"
     ],
     "BACKGROUND_ACCENT": [
       "#FFB5CE"
     ],
     "BACKGROUND_FLOATING": [
-      "#0e0b0c"
+      "#90717c"
     ],
     "BACKGROUND_MENTIONED": [
-      "#A95c7633"
+      "#904f6433"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#FF6397"
+      "#ff8ab1"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent"
@@ -40,52 +40,52 @@
       "#000"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#111"
+      "#f6f6f6"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#161213"
+      "#897077"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#4f4045"
+      "#896f78"
     ],
     "CHANNELS_DEFAULT": [
-      "#9c9c9c"
+      "#c3c3c3"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#3D2c32"
+      "#c3c3c3"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#141011"
+      "#866b72"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#080607"
+      "#846474"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1a1315"
+      "#84606a"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#1f191b"
+      "#8d727b"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#3D2C32"
+      "#86606e"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#3D2C32"
+      "#896371"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#fb0054"
+      "#ff7ea9"
     ],
     "BACKGROUND_PRIMARY": [
-      "#27191e"
+      "#865566"
     ],
     "BACKGROUND_SECONDARY": [
       "#81646d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#27191e"
+      "#925d6f"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0f0b0c"
+      "#7f5d66"
     ],
     "BG_BASE_PRIMARY": [
       "#907b85"
@@ -100,7 +100,7 @@
       "#a67983"
     ],
     "HOME_BACKGROUND": [
-      "#221b1d"
+      "#785f66"
     ],
     "BORDER_FAINT": [
       "#4F3B42"
