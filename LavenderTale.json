@@ -124,10 +124,10 @@
       "#4d3940"
     ],
     "HEADER_PRIMARY": [
-      "#e792af"
+      "#ff80aa"
     ],
     "HEADER_SECONDARY": [
-      "#FFEFF4"
+      "#ff80aa"
     ],
     "INTERACTIVE_ACTIVE": [
       "#FFFFFF"
@@ -190,7 +190,7 @@
       "#e68eac"
     ],
     "TEXT_LINK": [
-      "#ffbad1"
+      "#ff689a"
     ],
     "TEXT_MUTED": [
       "#e792af"
