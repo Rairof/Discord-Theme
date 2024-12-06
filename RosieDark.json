@@ -156,6 +156,9 @@
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#39343F"
         ],
+        "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+            "#f48fb1"
+        ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#A39595"
         ],
