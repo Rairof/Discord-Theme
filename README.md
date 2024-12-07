@@ -1,1 +1,1 @@
-Just a basic repo for discord themes.
+Just a basic repo for my discord themes.
