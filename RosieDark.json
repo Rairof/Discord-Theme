@@ -37,10 +37,10 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#000"
+            "#f48fb1"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#111"
+            "#111111"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#151216"
@@ -73,7 +73,7 @@
             "#3D2C37"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#fb00bc"
+            "#f48fb1"
         ],
         "BACKGROUND_PRIMARY": [
             "#271927"
