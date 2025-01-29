@@ -28,13 +28,13 @@
             "#FF63B1"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "transparent"
+            "#00000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "#00000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "transparent"
+            "#00000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#f48fb1"
