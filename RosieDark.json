@@ -368,7 +368,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/Kfk07Ux.jpeg",
+        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/refs/heads/main/RosieDarkBG.jpeg",
         "OPACITY": 0
     },
     "plus": {
@@ -387,3 +387,6 @@
     },
     "spec": 2
 }
+
+
+
