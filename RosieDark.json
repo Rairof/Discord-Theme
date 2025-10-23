@@ -367,8 +367,8 @@
         "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
     },
     "background": {
-        "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/refs/heads/main/RosieDarkBG.jpeg",
+        "blur": 0.1 ,
+        "url": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/Wallpapers/RosieDarkBG.png",
         "OPACITY": 0
     },
     "plus": {
@@ -387,6 +387,7 @@
     },
     "spec": 2
 }
+
 
 
 
