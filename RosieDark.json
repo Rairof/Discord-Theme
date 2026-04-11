@@ -150,11 +150,29 @@
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#1b1616"
         ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+        "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
+            "#e68eb7"
+        ],
+        "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
+            "#c2789b"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#2b232f"
         ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+        "CONTROL_OVERLAY_SECONDARY_BACKGROUND_DEFAULT": [
+            "#131014"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+            "#4b404f"
+        ],
+        "CONTROL_SECONDARY_BORDER_DEFAULT": [
             "#39343F"
+        ],
+        "CONTROL_OVERLAY_PRIMARY_TEXT_DEFAULT": [
+            "#fdfdfd"
+        ],
+        "CONTROL_OVERLAY_SECONDARY_TEXT_DEFAULT": [
+            "#A39595"
         ],
         "REDESIGN_BUTTON_DANGER_BACKGROUND": [
             "#f48fb1"
@@ -266,9 +284,9 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#f48fb1",
-        "PRIMARY_330": "#FCFDFC",
-        "PRIMARY_360": "#fcfdfc",
-        "PRIMARY_400": "#ffffff",
+        "PRIMARY_330": "#E792C1",
+        "PRIMARY_360": "#A39595",
+        "PRIMARY_400": "#bf8ab0",
         "PRIMARY_460": "#2b232f",
         "PRIMARY_500": "#e68cbf",
         "PRIMARY_530": "#d46ea7",
@@ -276,7 +294,7 @@
         "PRIMARY_630": "#151216",
         "PRIMARY_645": "#0d0b0e",
         "PRIMARY_660": "#18141a",
-        "PRIMARY_700": "#18141a",
+        "PRIMARY_700": "#2b232f",
         "PRIMARY_730": "#bf8ab0",
         "PRIMARY_800": "#181419",
         "GREEN_260": "#ff9ecb",
